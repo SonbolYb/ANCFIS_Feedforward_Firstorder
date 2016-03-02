@@ -1,0 +1,1597 @@
+******************************************************
+numVaraite:			1
+numofMf:			2 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			50
+threshold:			0.001
+numofRule:			2
+Rang of a:			0 10 
+Range of b:			0 100 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+6.82666 45.2035 0.801764 0.184234 
+2.04401 82.8458 0.600596 0.215536 
+
+
+******************************************************
+numVaraite:			1
+numofMf:			2 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			50
+threshold:			0.001
+numofRule:			2
+Rang of a:			0 10 
+Range of b:			0 100 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2.70271 13.6096 0.514826 0.298068 
+1.84918 46.8143 0.898662 0.0552383 
+
+
+----------Results----------
+
+WBest_Trn:
+0.078671 0.106901 
+
+epochPassed:			49
+EpochBest_Trn:			22
+AveErrorBest_Trn:		0.0846355
+FinalError_Chk:			0.0521828
+time spent:			0.705746
+******************************************************
+----------Results----------
+
+WBest_Trn:
+0.10644 -0.292552 
+
+epochPassed:			49
+EpochBest_Trn:			39
+AveErrorBest_Trn:		0.0850411
+FinalError_Chk:			0.0592829
+time spent:			0.696766
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			2 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			100
+threshold:			0.001
+numofRule:			2
+Rang of a:			0 10 
+Range of b:			0 100 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2.80774 39.1767 0.388724 0.36062 
+1.58121 83.6594 0.253458 0.00835624 
+
+
+----------Results----------
+
+WBest_Trn:
+0.0765923 -0.250665 
+
+epochPassed:			99
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.0841381
+FinalError_Chk:			0.05092
+time spent:			1.355
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			100
+threshold:			0.001
+numofRule:			4
+Rang of a:			0 10 
+Range of b:			0 100 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2.90796 73.3897 0.536655 0.057841 
+9.90605 29.6406 0.899972 0.046015 
+0.225722 88.2982 0.135633 0.00383802 
+6.80895 29.1228 0.351214 0.167941 
+
+
+----------Results----------
+
+WBest_Trn:
+0.460547 0.152197 0.294219 -0.105421 
+
+epochPassed:			99
+EpochBest_Trn:			70
+AveErrorBest_Trn:		0.0819532
+FinalError_Chk:			0.0449355
+time spent:			2.55489
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			100
+threshold:			0.001
+numofRule:			4
+Rang of a:			0 10 
+Range of b:			0 100 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+8.52937 59.4082 0.727608 0.0827153 
+0.879013 3.8955 0.173617 0.0899777 
+3.96766 72.8965 0.585125 0.333514 
+3.9871 16.4626 0.602974 0.0492011 
+
+
+----------Results----------
+
+WBest_Trn:
+-0.12759 0.145353 -0.202137 7.14287 
+
+epochPassed:			99
+EpochBest_Trn:			41
+AveErrorBest_Trn:		0.0819846
+FinalError_Chk:			0.0892361
+time spent:			2.53242
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			100
+threshold:			0.001
+numofRule:			4
+Rang of a:			0 10 
+Range of b:			0 100 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+8.95761 62.4679 0.097165 0.0370964 
+0.208035 15.5592 0.506216 0.144201 
+6.64777 65.4456 0.466283 0.144961 
+7.64061 36.3287 0.811451 0.0723694 
+
+
+----------Results----------
+
+WBest_Trn:
+-0.665557 -0.0285393 0.0856535 0.183046 
+
+epochPassed:			99
+EpochBest_Trn:			4
+AveErrorBest_Trn:		0.0830046
+FinalError_Chk:			0.0483849
+time spent:			2.7107
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			100
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.18103 0.0998097 
+2 2 0.522411 0.449649 
+2 2 0.575527 0.226503 
+2 2 0.47845 0.382814 
+
+
+----------Results----------
+
+WBest_Trn:
+-7.17416 1.37464 1.63078 -0.573163 
+
+epochPassed:			99
+EpochBest_Trn:			1
+AveErrorBest_Trn:		0.081028
+FinalError_Chk:			0.0537743
+time spent:			2.43672
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			100
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.36261 0.201918 
+2 2 0.749479 0.156101 
+2 2 0.406818 0.188119 
+2 2 0.548478 0.0665372 
+
+
+----------Results----------
+
+WBest_Trn:
+3.49215 0.0165803 -3.75246 0.663193 
+
+epochPassed:			99
+EpochBest_Trn:			54
+AveErrorBest_Trn:		0.0819041
+FinalError_Chk:			0.0698905
+time spent:			2.45012
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			100
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.463606 0.451041 
+2 2 0.49217 0.230111 
+2 2 0.364909 0.114616 
+2 2 0.213956 0.104425 
+
+
+----------Results----------
+
+WBest_Trn:
+-0.105663 -0.033952 -0.288667 1.13991 
+
+epochPassed:			99
+EpochBest_Trn:			3
+AveErrorBest_Trn:		0.0818843
+FinalError_Chk:			0.0408294
+time spent:			2.42746
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			100
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.737033 0.00273951 
+2 2 0.221741 0.018184 
+2 2 0.547667 0.410304 
+2 2 0.510054 0.237661 
+
+
+----------Results----------
+
+WBest_Trn:
+-5.28744 17.5514 -2.06435 2.4947 
+
+epochPassed:			99
+EpochBest_Trn:			36
+AveErrorBest_Trn:		0.0818564
+FinalError_Chk:			0.155581
+time spent:			2.4585
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			100
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.299692 0.053973 
+2 2 0.536968 0.0815306 
+2 2 0.0986113 0.064043 
+2 2 0.611982 0.113418 
+
+
+----------Results----------
+
+WBest_Trn:
+-2.02043 0.615202 0.44364 0.50749 
+
+epochPassed:			99
+EpochBest_Trn:			29
+AveErrorBest_Trn:		0.0819788
+FinalError_Chk:			0.0632728
+time spent:			2.47083
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.611613 0.0945783 
+2 2 0.493928 0.432104 
+2 2 0.341368 0.331695 
+2 2 0.415856 0.242076 
+
+
+----------Results----------
+
+WBest_Trn:
+0.419085 -0.402401 1.15988 -0.776775 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.0842719
+FinalError_Chk:			0.0540136
+time spent:			0.060629
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.830196 0.0320737 
+2 2 0.745939 0.0300721 
+2 2 0.370103 0.22005 
+2 2 0.625166 0.127132 
+
+
+----------Results----------
+
+WBest_Trn:
+-1.67737 1.37529 -0.442645 1.11456 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.0826776
+FinalError_Chk:			0.0638357
+time spent:			0.069106
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.393511 0.339184 
+2 2 0.430948 0.185604 
+2 2 0.429439 0.203679 
+2 2 0.562614 0.411769 
+
+
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.47409 0.380208 
+2 2 0.128934 0.0232164 
+2 2 0.833575 0.0438184 
+2 2 0.140059 0.133146 
+
+
+----------Results----------
+
+WBest_Trn:
+0.858251 2.81759 -0.354978 -2.56335 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.0838697
+FinalError_Chk:			0.0605538
+time spent:			0.059616
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.69696 0.0952565 
+2 2 0.308569 0.046561 
+2 2 0.64076 0.16419 
+2 2 0.660328 0.114942 
+
+
+----------Results----------
+
+WBest_Trn:
+1.07917 -0.691075 0.4206 -1.02192 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.083267
+FinalError_Chk:			0.0522133
+time spent:			0.059629
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.819469 0.100081 
+2 2 0.647716 0.324984 
+2 2 0.592806 0.0852519 
+2 2 0.773499 0.180483 
+
+
+----------Results----------
+
+WBest_Trn:
+0.604708 0.109723 -0.593437 -0.0474335 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.0833169
+FinalError_Chk:			0.0530668
+time spent:			0.072076
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.799822 0.0526304 
+2 2 0.411487 0.0719208 
+2 2 0.293352 0.117806 
+2 2 0.431782 0.304356 
+
+
+----------Results----------
+
+WBest_Trn:
+1.45337 -2.71089 -1.0437 0.903931 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.0828127
+FinalError_Chk:			0.072777
+time spent:			0.060238
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.463814 0.0820195 
+2 2 0.726327 0.13415 
+2 2 0.307427 0.139569 
+2 2 0.686635 0.219557 
+
+
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.600901 0.296182 
+2 2 0.691374 0.143277 
+2 2 0.754702 0.132208 
+2 2 0.760861 0.231116 
+
+
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.567912 0.366342 
+2 2 0.39879 0.345228 
+2 2 0.779178 0.0587727 
+2 2 0.134487 0.0986624 
+
+
+----------Results----------
+
+WBest_Trn:
+-2.38017 -1.42364 0.168461 14.2628 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.0838835
+FinalError_Chk:			0.0858622
+time spent:			0.071195
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.931834 0.00927825 
+2 2 0.463859 0.403481 
+2 2 0.759095 0.17317 
+2 2 0.480346 0.333707 
+
+
+----------Results----------
+
+WBest_Trn:
+2.15709 -1.5353 -4.03812 4.05831 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.0832827
+FinalError_Chk:			0.0825188
+time spent:			0.061149
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.271253 0.251819 
+2 2 0.928582 0.0336196 
+2 2 0.805663 0.0729511 
+2 2 0.680111 0.0183694 
+
+
+----------Results----------
+
+WBest_Trn:
+-0.447894 -1.01201 2.78383 -1.46243 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.0821518
+FinalError_Chk:			0.0651146
+time spent:			0.071308
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.646222 0.0422324 
+2 2 0.41977 0.316406 
+2 2 0.134949 0.131066 
+2 2 0.489039 0.326482 
+
+
+----------Results----------
+
+WBest_Trn:
+0.191503 -3.65845 4.40457 1.90909 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.084306
+FinalError_Chk:			0.0758271
+time spent:			0.060967
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.242514 0.151307 
+2 2 0.762888 0.0803849 
+2 2 0.0521283 0.0305742 
+2 2 0.574297 0.00983914 
+
+
+----------Results----------
+
+WBest_Trn:
+0.40018 -1.04676 0.97265 1.31511 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.0829459
+FinalError_Chk:			0.0671737
+time spent:			0.05968
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.113721 0.0778794 
+2 2 0.647805 0.349675 
+2 2 0.585447 0.0561026 
+2 2 0.8714 0.0894348 
+
+
+----------Results----------
+
+WBest_Trn:
+6.38849 -1.40284 1.89773 -0.898073 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.0830271
+FinalError_Chk:			0.0680983
+time spent:			0.073625
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.385748 0.0505377 
+2 2 0.17216 0.0162427 
+2 2 0.525467 0.129355 
+2 2 0.379482 0.250945 
+
+
+----------Results----------
+
+WBest_Trn:
+0.0508175 -4.17723 2.00314 -0.674301 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.0825116
+FinalError_Chk:			0.0687209
+time spent:			0.061587
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.615999 0.253197 
+2 2 0.768279 0.203592 
+2 2 0.0807657 0.0422719 
+2 2 0.0643363 0.00366379 
+
+
+----------Results----------
+
+WBest_Trn:
+0.0513107 0.237123 -0.734032 -0.979053 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.083185
+FinalError_Chk:			0.0503587
+time spent:			0.060974
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.403819 0.0428729 
+2 2 0.608673 0.197217 
+2 2 0.587044 0.177958 
+2 2 0.502379 0.301184 
+
+
+----------Results----------
+
+WBest_Trn:
+1.80912 -1.56654 -0.321732 1.08006 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.0830802
+FinalError_Chk:			0.0794609
+time spent:			0.064181
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.810083 0.102294 
+2 2 0.812189 0.184386 
+2 2 0.264441 0.150275 
+2 2 0.481547 0.287045 
+
+
+----------Results----------
+
+WBest_Trn:
+0.962686 -1.00207 -1.50277 1.22144 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.0830549
+FinalError_Chk:			0.0579473
+time spent:			0.061768
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.312762 0.114595 
+2 2 0.11216 0.0210379 
+2 2 0.356246 0.214254 
+2 2 0.796032 0.0383573 
+
+
+----------Results----------
+
+WBest_Trn:
+-2.36256 -15.0532 2.49274 2.06099 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.0827525
+FinalError_Chk:			0.110845
+time spent:			0.062708
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.60496 0.337228 
+2 2 0.387218 0.0431969 
+2 2 0.329081 0.320344 
+2 2 0.751913 0.120647 
+
+
+----------Results----------
+
+WBest_Trn:
+-0.687501 -3.45771 0.459157 2.3288 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.0840025
+FinalError_Chk:			0.0741696
+time spent:			0.061613
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+This is mf params:
+2 2 0.768014 0.069391 
+2 2 0.331049 0.0729213 
+2 2 0.406967 0.389392 
+2 2 0.634722 0.183177 
+
+
+----------Results----------
+
+WBest_Trn:
+-0.940319 1.06369 -0.46259 1.12222 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorBest_Trn:		0.083072
+FinalError_Chk:			0.0581575
+time spent:			0.311442
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+Forget coefficient for RLS:			0.98
+This is mf params:
+2 2 0.459081 0.0384737 
+2 2 0.247356 0.148006 
+2 2 0.506735 0.324284 
+2 2 0.790517 0.0572327 
+
+
+----------Results----------
+
+WBest_Trn:
+-2.09543 -2.51333 1.26962 1.35986 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorLastdata:		0.00915628
+AveErrorBestAlter_Trn:		0.0480285
+AveErrorBest_Trn:		0.08302
+FinalError_Alter_Chk0.0496062
+FinalError_Chk:			0.0664803
+time spent:			0.068829
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+Forget coefficient for RLS:			0.98
+This is mf params:
+2 2 0.548015 0.408147 
+2 2 0.341891 0.324141 
+2 2 0.615188 0.309392 
+2 2 0.872536 0.0364563 
+
+
+----------Results----------
+
+WBest_Trn:
+-1.97688 0.132619 2.74443 -0.558387 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorLastdata:		0.0120815
+AveErrorBestAlter_Trn:		0.0482269
+AveErrorBest_Trn:		0.0843866
+FinalError_Alter_Chk0.0505609
+FinalError_Chk:			0.0707469
+time spent:			0.062302
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+Forget coefficient for RLS:			0.98
+This is mf params:
+2 2 0.309076 0.228095 
+2 2 0.477594 0.12398 
+2 2 0.345011 0.193026 
+2 2 0.317115 0.242158 
+
+
+----------Results----------
+
+WBest_Trn:
+-3.07244 0.062569 0.458919 2.67722 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorLastdata:		0.00542801
+AveErrorBestAlter_Trn:		0.0487552
+AveErrorBest_Trn:		0.0843045
+FinalError_Alter_Chk0.0487695
+FinalError_Chk:			0.0682426
+time spent:			0.061243
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+Forget coefficient for RLS:			0.98
+This is mf params:
+2 2 0.499627 0.359186 
+2 2 0.283948 0.0955932 
+2 2 0.307483 0.286596 
+2 2 0.101764 0.0330512 
+
+
+----------Results----------
+
+WBest_Trn:
+1.15531 3.2482 -1.18118 -10.3798 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorLastdata:		0.00746833
+AveErrorBestAlter_Trn:		0.0488808
+AveErrorBest_Trn:		0.0833603
+FinalError_Alter_Chk0.0553991
+FinalError_Chk:			0.0813491
+time spent:			0.062218
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+Forget coefficient for RLS:			0.98
+This is mf params:
+2 2 0.516517 0.201302 
+2 2 0.93294 0.0189211 
+2 2 0.642401 0.112396 
+2 2 0.659574 0.108945 
+
+
+----------Results----------
+
+WBest_Trn:
+-1.16974 -0.917928 2.19601 0.333975 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorLastdata:		0.0159131
+AveErrorBestAlter_Trn:		0.0483084
+AveErrorBest_Trn:		0.0830411
+FinalError_Alter_Chk0.0495001
+FinalError_Chk:			0.0651787
+time spent:			0.060363
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+Forget coefficient for RLS:			0.98
+This is mf params:
+2 2 0.566219 0.264593 
+2 2 0.820638 0.0649091 
+2 2 0.920064 0.054877 
+2 2 0.327672 0.25512 
+
+
+----------Results----------
+
+WBest_Trn:
+-1.09065 -3.12141 3.14966 1.39785 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorLastdata:		0.00859344
+AveErrorBestAlter_Trn:		0.0484936
+AveErrorBest_Trn:		0.0830676
+FinalError_Alter_Chk:			0.0594707
+FinalError_Chk:			0.0892884
+time spent:			0.062571
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+Forget coefficient for RLS:			0.98
+This is mf params:
+2 2 0.4087 0.297769 
+2 2 0.594619 0.00820985 
+2 2 0.598551 0.000586919 
+2 2 0.428298 0.288013 
+
+
+----------Results----------
+
+WBest_Trn:
+1.88198 -0.819136 1.03357 -1.7802 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorLastdata:		0.00335219
+AveErrorBestAlter_Trn:	0.0478875
+AveErrorBest_Trn:		0.0828902
+FinalError_Alter_Chk:		0.0482521
+FinalError_Chk:			0.0595966
+time spent:			0.061468
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+Forget coefficient for RLS:			0.98
+This is mf params:
+2 2 0.918888 0.00451458 
+2 2 0.71984 0.181636 
+2 2 0.444003 0.351434 
+2 2 0.395976 0.354454 
+
+
+----------Results----------
+
+WBest_Trn:
+-1.46757 2.46982 3.47206 -4.53342 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorLastdata:		0.00551355
+AveErrorBestAlter_Trn:	0.0478831
+AveErrorBest_Trn:		0.0834809
+FinalError_Alter_Chk:	0.0537477
+FinalError_Chk:			0.0733704
+time spent:			0.06023
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+Forget coefficient for RLS:			0.98
+This is mf params:
+2 2 0.664587 0.287332 
+2 2 0.521213 0.0204837 
+2 2 0.337885 0.0646424 
+2 2 0.720917 0.0927053 
+
+
+----------Results----------
+
+WBest_Trn:
+-0.139364 -1.32556 -1.20792 1.84865 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorLastdata:		0.0139094
+AveErrorBestAlter_Trn:		0.0483734
+AveErrorBest_Trn:		0.0828324
+FinalError_Alter_Chk:		0.0500532
+FinalError_Chk:			0.0645879
+time spent:			0.062872
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			4 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			1
+threshold:			0.001
+numofRule:			4
+Rang of a:			2 2 
+Range of b:			2 2 
+numver of core used:		1
+lambda for RLs:			0.001
+Forget coefficient for RLS:	0.98
+This is mf params:
+2 2 0.669365 0.0960071 
+2 2 0.789947 0.00647357 
+2 2 0.23202 0.0551841 
+2 2 0.455023 0.372088 
+
+
+----------Results----------
+
+WBest_Trn:
+-0.747119 0.115791 2.62707 -0.109762 
+
+epochPassed:			0
+EpochBest_Trn:			0
+AveErrorLastdata:		0.000518249
+AveErrorBestAlter_Trn:		0.0479768
+AveErrorBest_Trn:		0.0832308
+FinalError_Alter_Chk:		0.0492169
+FinalError_Chk:			0.0572627
+time spent:			0.062034
+******************************************************
+******************************************************
+numVaraite:			0
+numofMf:			
+lenghtofVariates:		
+inputVectorLength:		0
+numofInVecTr:			0
+numofInVecCh:			0
+numberofEpoch:			0
+threshold:			0
+numofRule:			1
+numofWeights:			1
+Rang of a:			
+Range of b:			
+numver of core used:		0
+lambda for RLs:			0
+Forget coefficient for RLS:	0
+This is mf params:
+
+******************************************************
+numVaraite:			0
+numofMf:			
+lenghtofVariates:		
+inputVectorLength:		0
+numofInVecTr:			0
+numofInVecCh:			0
+numberofEpoch:			0
+threshold:			0
+numofRule:			1
+numofWeights:			1
+Rang of a:			
+Range of b:			
+numver of core used:		0
+lambda for RLs:			0
+Forget coefficient for RLS:	0
+This is mf params:
+
+******************************************************
+numVaraite:			0
+numofMf:			
+lenghtofVariates:		
+inputVectorLength:		0
+numofInVecTr:			0
+numofInVecCh:			0
+numberofEpoch:			0
+threshold:			0
+numofRule:			1
+numofWeights:			1
+Rang of a:			
+Range of b:			
+numver of core used:		0
+lambda for RLs:			0
+Forget coefficient for RLS:	0
+This is mf params:
+
+******************************************************
+numVaraite:			0
+numofMf:			
+lenghtofVariates:		
+inputVectorLength:		0
+numofInVecTr:			0
+numofInVecCh:			0
+numberofEpoch:			0
+threshold:			0
+numofRule:			1
+numofWeights:			1
+Rang of a:			
+Range of b:			
+numver of core used:		0
+lambda for RLs:			0
+Forget coefficient for RLS:	0
+This is mf params:
+
+******************************************************
+numVaraite:			0
+numofMf:			
+lenghtofVariates:		
+inputVectorLength:		0
+numofInVecTr:			0
+numofInVecCh:			0
+numberofEpoch:			0
+threshold:			0
+numofRule:			1
+numofWeights:			1
+Rang of a:			
+Range of b:			
+numver of core used:		0
+lambda for RLs:			0
+Forget coefficient for RLS:	0
+This is mf params:
+
+******************************************************
+numVaraite:			0
+numofMf:			
+lenghtofVariates:		
+inputVectorLength:		0
+numofInVecTr:			0
+numofInVecCh:			0
+numberofEpoch:			0
+threshold:			0
+numofRule:			1
+numofWeights:			1
+Rang of a:			
+Range of b:			
+numver of core used:		0
+lambda for RLs:			0
+Forget coefficient for RLS:	0
+This is mf params:
+
+******************************************************
+numVaraite:			1
+numofMf:			2 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			100
+threshold:			0.002
+numofRule:			2
+numofWeights:			20
+Rang of a:			0 10 
+Range of b:			0 100 
+numver of core used:		1
+lambda for RLs:			0.01
+Forget coefficient for RLS:	0.98
+This is mf params:
+7.50351 82.8406 0.465386 0.354667 
+4.54868 76.9672 0.330797 0.0363506 
+
+
+----------Results----------
+
+WBest_Trn:
+-0.109528 0.209562 -0.0080201 0.0281222 0.0391761 0.132941 -0.0500969 -0.00494568 0.00300512 0.0321953 1.21811 -6.81214 2.56327 3.76901 9.92868 10.9911 2.58899 -1.75168 2.96727 -1.23166 
+
+epochPassed:			99
+EpochBest_Trn:			77
+AveErrorLastdata:		0.0181802
+AveErrorBestAlter_Trn:		0.0411932
+AveErrorBest_Trn:		0.0683056
+FinalError_Alter_Chk:		0.0324872
+FinalError_Chk:			0.0467821
+time spent:			6.24936
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			2 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			100
+threshold:			0.002
+numofRule:			2
+numofWeights:			20
+Rang of a:			0 10 
+Range of b:			0 100 
+numver of core used:		1
+lambda for RLs:			0.01
+Forget coefficient for RLS:	0.98
+This is mf params:
+3.73057 27.2866 0.0697687 0.011081 
+3.95018 45.7221 0.623898 0.004249 
+
+
+******************************************************
+numVaraite:			1
+numofMf:			2 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			100
+threshold:			0.002
+numofRule:			2
+numofWeights:			20
+Rang of a:			0 10 
+Range of b:			0 100 
+numver of core used:		1
+lambda for RLs:			0.01
+Forget coefficient for RLS:	0.98
+This is mf params:
+9.06419 14.8562 0.773517 0.138368 
+7.56077 42.7984 0.0244088 0.0152492 
+
+
+----------Results----------
+
+WBest_Trn:
+-0.0934896 0.0081848 -0.403544 -0.0500078 0.360899 -0.400886 0.0718534 0.123477 -0.055856 0.137361 0.262468 -0.322192 0.202978 -0.140872 -0.110917 0.180272 0.0127373 -0.0825568 -0.051459 0.0439002 
+
+epochPassed:			99
+EpochBest_Trn:			99
+AveErrorLastdata:		0.0788319
+AveErrorBestAlter_Trn:		0.0392784
+AveErrorBest_Trn:		0.0690266
+FinalError_Alter_Chk:		0.036823
+FinalError_Chk:			0.047887
+time spent:			6.25906
+******************************************************
+******************************************************
+numVaraite:			1
+numofMf:			2 
+lenghtofVariates:		9 
+inputVectorLength:		10
+numofInVecTr:			411
+numofInVecCh:			411
+numberofEpoch:			100
+threshold:			0.002
+numofRule:			2
+numofWeights:			20
+Rang of a:			0 10 
+Range of b:			0 100 
+number of core used:		1
+lambda for RLs:			0.01
+Forget coefficient for RLS:	0.98
+This is mf params:
+4.06528 57.5572 0.543946 0.377981 
+7.48449 13.6583 0.54643 0.335579 
+
+
